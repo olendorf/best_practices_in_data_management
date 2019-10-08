@@ -18,8 +18,7 @@ order: 70
   <li class="fragment">File storage</li>
   <li class="fragment">Metadata and documentation</li>
   <li class="fragment">Access during project</li>
-  <li class="fragment">Access after project</li>
-  <li class="fragment">Where to archive</li>
+  <li class="fragment">Sharing Data</li>
 </ul>
 
 
