@@ -8,3 +8,13 @@
 /*.reveal div .two-col ul {*/
 /*  margin-top: 20px*/
 /*}*/
+
+.reveal .small {
+    font-size: 20px;
+    text-align: left
+}
+
+.reveal .smallest {
+    font-size: 16px;
+    text-align: left
+}
