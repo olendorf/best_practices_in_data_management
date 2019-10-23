@@ -1,7 +1,15 @@
 
 .reveal div .two-col {
+  margin: 0 20px;
   display: inline-block;
   width: 40%;
+  vertical-align: top;
+}
+
+.reveal div .three-col {
+  margin: 0 15px;
+  display: inline-block;
+  width: 27%;
   vertical-align: top;
 }
 
@@ -17,4 +25,13 @@
 .reveal .smallest {
     font-size: 16px;
     text-align: left
+}
+
+.reveal .caution {
+  color: orange;
+}
+
+.reveal .no {
+  text-decoration: line-through;
+  color: red;
 }

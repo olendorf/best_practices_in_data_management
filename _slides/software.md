@@ -12,4 +12,4 @@ order: 30
 - It MUST work
 - It MUST be usable
 - Focuses on standards and automation
-- Focused on process and outcomes not rules
+- Focuses on process and outcomes not rules
