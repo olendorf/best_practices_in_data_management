@@ -7,8 +7,8 @@ make will have a significant affect on the final quality of your research produc
 
 This workshop will provide a framework to understand the decisions that need to be made during
 the course of a research project. We will provide guidance on best practices and tools available
-to help you more efficiently manage your research. At the end of the workshop you will have 
-created an initial working plan for managing your data you can use for your own research.
+to help you more efficiently manage your research. At the end of the workshop you will 
+create an initial working plan for managing your data you can use for your own research.
 
 
 ## Contributing
