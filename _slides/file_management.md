@@ -5,58 +5,45 @@ order: 100
 ---
 
 
-## File Storage
+## File Organization
 
 <div>
   
-  <div class="small two-col left">
-    <h3>You want&#8230;</h3>
-    <ul>
-        <li>
-            one location
-            <ul>
-                <li>Keeping files on multiple computers isn't backing up</li>
-            </ul>
-        </li>
-        <li>
-            access control
-            <ul>
-                <li>Project members should have access</li>
-                <li>Safe from outside edits</li>
-                <li>Allow read if you like</li>
-            </ul>
-        </li>
-        <li>
-            redundancy/backup
-            <ul>
-                <li>Automated</li>
-                <li>Keeping files on multiple computers isn't backing up</li>
-            </ul>
-        </li>
-        <li>versioning</li>
-    </ul>
+  <div class="two-col left">
+    <figure>
+      <img src="{{ site.baseurl }}/assets/img/slides/documents_messydesk.jpg" alt="Just a sample image"/>
+    </figure>
   </div>
+  
   <div class="small two-col right">
-    <h3>Options</h3>
+    <h3> The Directory Structure Should Be&#8230;</h3>
     <ul>
-        <li>Campus IT (OIT)</li>
         <li>
-            Cloud Storage
+            Expressive.
             <ul>
-                <li>Google Drive</li>
-                <li>GitHub</li>
-                <li>Amazon Web Services (S3)</li>
-                <li>Drop Box</li>
-                <li>&#8230;</li>
+                <li>Requires minimal documentation.</li>
+                <li>Intuitive structure.</li>
             </ul>
         </li>
-        <li class="caution">Home Grown Servers</li>
-        <li class="no">Your Laptop</li>
-        <li class="no">Thumb drives</li>
+        <li>
+            Easy to maintain.
+            <ul>
+                <li>Easy to name files.</li>
+                <li>Easy to move things.</li>
+            </ul>
+        </li>
+        <li>
+            Scalable
+            <ul>
+                <li>Works for small and large projects.</li>
+                <li>Easy to navigate for any size project.</li>
+                <li>Don't nest too deeply.</li>
+                <li>Don't nest too shallow.</li>
+            </ul>
+        </li>
     </ul>
   </div>
 </div>
-
 
 
 

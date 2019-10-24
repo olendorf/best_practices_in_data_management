@@ -32,6 +32,14 @@
 }
 
 .reveal .no {
-  text-decoration: line-through;
+  /*text-decoration: line-through;*/
   color: red;
+}
+
+.reveal .ok {
+  color: steelblue;
+}
+
+.reveal .best {
+  color: mediumseagreen;
 }
