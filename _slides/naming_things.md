@@ -33,19 +33,19 @@ order: 120
     <h3>Working With Dates</h3>
     <ul class="smallest">
         <li class="no">
-            image_120702
+            image_120702.png
             <ul><li>December, July or February?</li></ul>
         </li>
         <li class="ok fragment">
-            image_20120702
+            image_20120702.png
             <ul><li>Good if following <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601 (YYYYMMDD)</a></li></ul>
         </li>
         <li class="ok fragment">
-            image_july_02_2012
+            image_july_02_2012.png
             <ul><li>Unambiguous</li></ul>
         </li>
         <li class="ok fragment">
-            image_1341235788
+            image_1341235788.png
             <ul>
                 <li>Seconds since January 1, 1970 00:00:00</li>
                 <li>Precision to seconds</li>
@@ -59,10 +59,10 @@ order: 120
 </div>
 <hr/>
 <div>
-    <pre>There are two hard things in computer science: cache invalidation
-    and naming things.
+    <blockquote>There are two hard things in computer science: cache invalidation 
+and naming things.
     
-    -- Phil Karlton</pre>
+-- Phil Karlton</blockquote>
 </div>
 
 

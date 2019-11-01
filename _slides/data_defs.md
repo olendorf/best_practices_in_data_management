@@ -6,10 +6,24 @@ order: 50
 
 ## What Is Data?
 
-- factual information (such as measurements or statistics) used as a basis for reasoning or calculation
-- information in digital form that can be transmitted or processed
+<div class="fragment">
+    <ul>
+        <li>
+            Factual information (such as measurements or statistics) 
+            used as a basis for reasoning or calculation
+        </li>
+        <li>
+            Information in digital form that can be transmitted or processed
+        </li>
+        <li>
+            Stuff you can do math on
+        </li>
+    </ul>
+        
 
-<blockquote class="small"> 
+</div>
+
+<blockquote class="small fragment"> 
 <p>
 <strong>Office of Science and Technology Policy</strong>
 digital recorded factual material commonly accepted in the scientific community as necessary to
