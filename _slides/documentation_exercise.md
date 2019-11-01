@@ -1,6 +1,6 @@
 ---
 
-order: 100000
+order: 220
 
 ---
 
@@ -8,7 +8,7 @@ order: 100000
 
 ## Develop a Metadata and Documentation Strategy 
 
-<ul>
+<ul class="small">
     <li>What metadata is collected automatically?</li>
     <li>
         Where will you record your documentation?
@@ -17,6 +17,7 @@ order: 100000
             <li>Data Dictionary</li>
             <li>Embedded (Naming, TIFF, NETCDF, HDF5)</li>
         </ul>
+    </li>
     <li>How will you maintain it?</li>
 </ul>
 
