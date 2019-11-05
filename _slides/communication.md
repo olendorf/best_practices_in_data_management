@@ -14,7 +14,7 @@ order: 140
       <li>Planning</li>
       <li>Files</li>
       <li>Ideas</li>
-      <li>Calendears</li>
+      <li>Calendars</li>
       <li>&hellip;</li>
     </ul>
   </div>

@@ -9,7 +9,7 @@ order: 230
 <div>
   <div class="two-col left">
     <ul>
-        <li>Probably be required!</li>
+        <li>Probably required!</li>
         <li>Look for a domain specific repository</li>
         <li>Figshare, Zenodo</li>
         <li>
