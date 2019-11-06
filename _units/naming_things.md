@@ -6,10 +6,10 @@ order: 50    # Determines the order of units. Doesn't need to be consecutive tho
             # or even start with zero, the pages will be displayed in their sort
             # order.
 
-duration: 10 # A hint to how long it will take to cover this topic in mintues.
+duration: 0 # A hint to how long it will take to cover this topic in mintues.
 
-tutorial: true  # Set to true if you want this page displayed as a web page
-instructors_notes: true  # Set to true if you want this displayed in instructors notes
+tutorial: false  # Set to true if you want this page displayed as a web page
+instructors_notes: false  # Set to true if you want this displayed in instructors notes
 
 # Provide a brief description of what the unit is about. You can use markdown
 # notation for this.

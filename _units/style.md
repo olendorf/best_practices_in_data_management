@@ -1,25 +1,26 @@
 ---
 layout: page   # This is required
-title: Metadata and Documentation  # This is required
+title: Naming, Organization and Style   # This is required
 
-order: 70    # Determines the order of units. Doesn't need to be consecutive though
+order: 60    # Determines the order of units. Doesn't need to be consecutive though
             # or even start with zero, the pages will be displayed in their sort
             # order.
 
-duration: 0 # A hint to how long it will take to cover this topic in mintues.
+duration: 15 # A hint to how long it will take to cover this topic in mintues.
 
 tutorial: false  # Set to true if you want this page displayed as a web page
-instructors_notes: false  # Set to true if you want this displayed in instructors notes
+instructors_notes: true  # Set to true if you want this displayed in instructors notes
 
 # Provide a brief description of what the unit is about. You can use markdown
 # notation for this.
 description: |
-  Describing your work is important both during the project and after. This units describes some useful
-  strategies for doing this that don't require huge amounts of time and effort.
+  Naming conventions, file organization and style are important for organizing your work.
+  Not only does good naming and style help make your work more understandable, but it 
+  it also aids greatly in facilitating automation. Also, poor style can lead to 
+  inefficiency and loss of data.
 
 instructors_note: |
-  This is a good one to start hands on. Participants can start making a plan for their 
-  own current or potential new projects. 
+
   
 
   
@@ -35,8 +36,6 @@ instructors_note: |
 #     link_text: Example image for this unit.
 
 ---
-
-
 
 
 

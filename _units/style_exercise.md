@@ -1,12 +1,12 @@
 ---
 layout: page   # This is required
-title: Introductions   # This is required
+title: Naming, Organization and Style   # This is required
 
-order: 0    # Determines the order of units. Doesn't need to be consecutive though
+order: 70    # Determines the order of units. Doesn't need to be consecutive though
             # or even start with zero, the pages will be displayed in their sort
             # order.
 
-duration: 10 # A hint to how long it will take to cover this topic in mintues.
+duration: 20 # A hint to how long it will take to cover this topic in mintues.
 
 tutorial: false  # Set to true if you want this page displayed as a web page
 instructors_notes: true  # Set to true if you want this displayed in instructors notes
@@ -14,10 +14,11 @@ instructors_notes: true  # Set to true if you want this displayed in instructors
 # Provide a brief description of what the unit is about. You can use markdown
 # notation for this.
 description: |
-  This is pulled from the `page.description` field.
+  Attendees will start developing a style guide for their project. Then share with
+  a neighbor to get feedback.
 
 instructors_note: |
-  Use the first 10 minutes for introductions and brief slide presentation.
+
   
 
   

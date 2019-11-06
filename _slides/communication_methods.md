@@ -7,7 +7,7 @@ order: 150
 <h2>How To Communicate</h2>
 
 <div>
-    <div class="small three-col left">
+    <div class="small three-col left fragment">
         <h3>Email</h3>
         <ul>
           <li>Easy</li>
@@ -18,7 +18,7 @@ order: 150
           <li>Limited access</li>
         </ul>
     </div>
-    <div class="small three-col middle">
+    <div class="small three-col middle fragment">
         <h3>Chat (Google Chat, Slack...)</h3>
         <ul>
           <li>Easy</li>
@@ -28,7 +28,7 @@ order: 150
           <li>Limited access</li>
         </ul>
     </div>
-    <div class="small three-col right">
+    <div class="small three-col right fragment">
         <h3>Issues (GitHub, Jira, Trello)</h3>
         <ul>
             <li>Less easy</li>

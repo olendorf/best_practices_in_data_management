@@ -11,7 +11,7 @@ order: 105
     <h3>Names Should &hellip;</h3>
     <ul class="small">
         <li class="fragment">BE CONSISTENT!!</li>
-        <li class="fragment">Be ot too long or short</li>
+        <li class="fragment">Not be too long or short</li>
         <li class="fragment">Not repeat yourself</li>
         <li class="fragment">Group By Author (maybe)</li>
         <li class="fragment">Document necessary conventions in README</li>

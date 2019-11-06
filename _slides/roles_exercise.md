@@ -6,7 +6,7 @@ order: 80
 
 # Exercise
 
-## Define Personel, Responsabilities and Abilities For Your Project
+## Define Personel, Responsibilities and Abilities For Your Project
 
 
 
