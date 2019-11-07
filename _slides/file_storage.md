@@ -13,13 +13,13 @@ order: 90
     <h3>You want&#8230;</h3>
     <ul>
         <li class="fragment">
-            one location
+            One Location
             <ul>
-                <li class="fragment">Keeping files on multiple computers isn't backing up</li>
+                <li>Keeping files on multiple computers isn't backing up</li>
             </ul>
         </li>
         <li class="fragment">
-            access control
+            Access Control
             <ul>
                 <li class="fragment">Project members should have access</li>
                 <li class="fragment">Safe from outside edits</li>
@@ -27,13 +27,13 @@ order: 90
             </ul>
         </li>
         <li class="fragment">
-            redundancy/backup
+            Redundancy/Backup
             <ul>
-                <li class="fragment">Automated</li>
+                <li class="fragment">Automated backup</li>
                 <li class="fragment">Keeping files on multiple computers isn't backing up</li>
             </ul>
         </li>
-        <li class="fragment">versioning</li>
+        <li class="fragment">Versioning</li>
     </ul>
   </div>
   <div class="small two-col right fragment">
