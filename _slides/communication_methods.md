@@ -14,7 +14,7 @@ order: 150
           <li>Can control recipients</li>
           <li>Easy to become chaos</li>
           <li>Search</li>
-          <li>Sending files is particular bad</li>
+          <li>Sending files is particularly bad</li>
           <li>Limited access</li>
         </ul>
     </div>
