@@ -39,8 +39,8 @@ order: 90
   <div class="small two-col right fragment">
     <h3>Options</h3>
     <ul>
-        <li class="fragment">Campus IT (OIT)</li>
-        <li class="fragment">
+        <li>Campus IT (OIT)</li>
+        <li>
             Cloud Storage
             <ul>
                 <li>Google Drive</li>
