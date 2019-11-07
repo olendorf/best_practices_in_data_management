@@ -11,18 +11,18 @@ order: 90
     <ul>
       <li class="fragment">Favor Open File Types</li>
       <ul>
-        <li>CSV over Excel</li>
-        <li>PNG over JPG</li>
-        <li>Avoid proprietary formats</li>
+        <li class="fragment">CSV over Excel</li>
+        <li class="fragment">PNG over JPG</li>
+        <li class="fragment">Avoid proprietary formats</li>
       </ul>
       <li class="fragment">Favor Text Formats</li>
       <ul>
-        <li>CSV over Excel</li>
-        <li>Markdown over Word</li>
+        <li class="fragment">CSV over Excel</li>
+        <li class="fragment">Markdown over Word</li>
       </ul>
       <li class="fragment">Avoid Compression</li>
       <ul>
-        <li>TIFF over PNG over JPG</li>
+        <li class="fragment">TIFF over PNG over JPG</li>
       </ul>
     </ul>
   </div>
