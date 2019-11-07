@@ -9,20 +9,20 @@ order: 90
 <div>
   <div class="small two-col left">
     <ul>
-      <li class="fragment">Favor Open File Types</li>
+      <li>Favor Open File Types</li>
       <ul>
-        <li class="fragment">CSV over Excel</li>
-        <li class="fragment">PNG over JPG</li>
-        <li class="fragment">Avoid proprietary formats</li>
+        <li>CSV over Excel</li>
+        <li>PNG over JPG</li>
+        <li>Avoid proprietary formats</li>
       </ul>
-      <li class="fragment">Favor Text Formats</li>
+      <li>Favor Text Formats</li>
       <ul>
-        <li class="fragment">CSV over Excel</li>
-        <li class="fragment">Markdown over Word</li>
+        <li>CSV over Excel</li>
+        <li>Markdown over Word</li>
       </ul>
-      <li class="fragment">Avoid Compression</li>
+      <li>Avoid Compression</li>
       <ul>
-        <li class="fragment">TIFF over PNG over JPG</li>
+        <li>TIFF over PNG over JPG</li>
       </ul>
     </ul>
   </div>
