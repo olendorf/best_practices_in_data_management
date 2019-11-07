@@ -4,7 +4,7 @@ order: 97
 
 ---
 
-# Excercise
+# Exercise
 
 ## Describe Your Data
 
