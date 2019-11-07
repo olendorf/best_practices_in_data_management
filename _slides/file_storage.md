@@ -12,35 +12,35 @@ order: 90
   <div class="small two-col left fragment">
     <h3>You want&#8230;</h3>
     <ul>
-        <li>
+        <li class="fragment">
             one location
             <ul>
-                <li>Keeping files on multiple computers isn't backing up</li>
+                <li class="fragment">Keeping files on multiple computers isn't backing up</li>
             </ul>
         </li>
-        <li>
+        <li class="fragment">
             access control
             <ul>
-                <li>Project members should have access</li>
-                <li>Safe from outside edits</li>
-                <li>Allow read if you like</li>
+                <li class="fragment">Project members should have access</li>
+                <li class="fragment">Safe from outside edits</li>
+                <li class="fragment">Allow read if you like</li>
             </ul>
         </li>
-        <li>
+        <li class="fragment">
             redundancy/backup
             <ul>
-                <li>Automated</li>
-                <li>Keeping files on multiple computers isn't backing up</li>
+                <li class="fragment">Automated</li>
+                <li class="fragment">Keeping files on multiple computers isn't backing up</li>
             </ul>
         </li>
-        <li>versioning</li>
+        <li class="fragment">versioning</li>
     </ul>
   </div>
   <div class="small two-col right fragment">
     <h3>Options</h3>
     <ul>
-        <li>Campus IT (OIT)</li>
-        <li>
+        <li class="fragment">Campus IT (OIT)</li>
+        <li class="fragment">
             Cloud Storage
             <ul>
                 <li>Google Drive</li>
@@ -50,9 +50,9 @@ order: 90
                 <li>&#8230;</li>
             </ul>
         </li>
-        <li class="caution">Home Grown Servers</li>
-        <li class="no">Your Laptop</li>
-        <li class="no">Thumb drives</li>
+        <li class="caution" class="fragment">Home Grown Servers</li>
+        <li class="no" class="fragment">Your Laptop</li>
+        <li class="no" class="fragment">Thumb drives</li>
     </ul>
   </div>
 </div>
