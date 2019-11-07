@@ -4,7 +4,7 @@ order: 160
 
 ---
 
-# Excercise
+# Exercise
 
 ## Develop a Communication Plan
 
