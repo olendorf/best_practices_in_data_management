@@ -50,9 +50,9 @@ order: 90
                 <li>&#8230;</li>
             </ul>
         </li>
-        <li class="caution" class="fragment">Home Grown Servers</li>
-        <li class="no" class="fragment">Your Laptop</li>
-        <li class="no" class="fragment">Thumb drives</li>
+        <li class="fragment" class="caution">Home Grown Servers</li>
+        <li class="fragment" class="no">Your Laptop</li>
+        <li class="fragment" class="no">Thumb drives</li>
     </ul>
   </div>
 </div>
