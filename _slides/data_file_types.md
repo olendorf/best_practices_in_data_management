@@ -16,15 +16,17 @@ order: 90
            <li>Avoid proprietary formats</li>
          </ul>
       </li>
-      <li>Favor Text Formats</li>
-      <ul>
-        <li>CSV over Excel</li>
-        <li>Markdown over Word</li>
-      </ul>
-      <li>Avoid Compression</li>
-      <ul>
-        <li>TIFF over PNG over JPG</li>
-      </ul>
+      <li class="fragment">Favor Text Formats
+        <ul>
+          <li>CSV over Excel</li>
+          <li>Markdown over Word</li>
+        </ul>
+      </li>
+      <li class="fragment">Avoid Compression
+        <ul>
+          <li>TIFF over PNG over JPG</li>
+        </ul>
+      </li>
     </ul>
   </div>
   
