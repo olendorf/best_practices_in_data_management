@@ -9,9 +9,9 @@ order: 55
 <div>
   <div class="small two-col left">
     <ul>
-        <li>The Data</li>
-        <li>Analysis codes</li>
-        <li>
+        <li class="fragment">The Data</li>
+        <li class="fragment">Analysis codes</li>
+        <li class="fragment">
             Documentation & Metadata
             <ul>
                 <li>README</li>
@@ -19,7 +19,7 @@ order: 55
                 <li>Metadata Files</li>
             </ul>
         </li>
-        <li>
+        <li class="fragment">
             Outputs
             <ul>
                 <li>Statistical results</li>
@@ -27,8 +27,8 @@ order: 55
                 <li>Figures</li>
             </ul>
         </li>
-        <li>Physical Samples (not funder required)</li>
-        <li>Procedures and Protocols</li>
+        <li class="fragment">Physical Samples (not funder required)</li>
+        <li class="fragment">Procedures and Protocols</li>
     </ul>
   </div>
   
