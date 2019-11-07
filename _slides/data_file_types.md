@@ -9,12 +9,13 @@ order: 90
 <div>
   <div class="small two-col left">
     <ul>
-      <li>Favor Open File Types</li>
-      <ul>
-        <li>CSV over Excel</li>
-        <li>PNG over JPG</li>
-        <li>Avoid proprietary formats</li>
-      </ul>
+      <li class="fragment">Favor Open File Types
+         <ul>
+           <li>CSV over Excel</li>
+           <li>PNG over JPG</li>
+           <li>Avoid proprietary formats</li>
+         </ul>
+      </li>
       <li>Favor Text Formats</li>
       <ul>
         <li>CSV over Excel</li>
