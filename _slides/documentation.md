@@ -24,15 +24,7 @@ order: 170
     </figure>
   </div>
 </div>
-<div>
-    <blockquote class="small">
-    Documentation is like sex: when it is good, it is very, very good; 
-    and when it is bad, it is better than nothing.
-    
-    <br/><br/>
-    -- Dick Brandon
-    </blockquote>
-</div>
+
     
 
 
