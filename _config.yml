@@ -107,7 +107,7 @@ collections:
 # The Reveal theme
 
 # Look in the reveal/css/theme/ directory for a list of available themes.
-reveal_theme: solarized.css
+reveal_theme: red_head.css
 
 # The Reveal transition
 reveal_transition: default
