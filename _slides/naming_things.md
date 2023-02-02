@@ -58,7 +58,7 @@ order: 120
   </div>
 </div>
 <hr/>
-<div>
+<div class="small">
     <blockquote>There are two hard things in computer science: cache invalidation 
 and naming things.
     
