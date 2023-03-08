@@ -21,15 +21,15 @@ description: |
   Even small research projects can be difficult ot manager efficiently, and even projects
   on small budgets can generate large amounts of complex data. Managing data to increase
   openness and reproducibility can add additional levels of complexity. Also most projects
-  involve multiple researhers and are highly collaborative. Here we take 
-  a project management approach towards managing your data, that focuses on techniques
-  and tools that will increase your efficiency as both the complexity of your data and
-  the complexity of your projects increases.
+  involve multiple researchers and are highly collaborative. Here we take 
+  a project management and software development approach towards managing your data, 
+  that focuses on techniques and tools that will increase your efficiency as both 
+  the complexity of your data and the complexity of your projects increases.
 
 
 # Author information 
 author:
-    name: Robert Olendorf & Shelby Hallman
+    name: Robert Olendorf & Joddy Marchesoni
     # url:  http://example.com/
     company:
         name: NC State University
