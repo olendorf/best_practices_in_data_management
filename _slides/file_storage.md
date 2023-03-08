@@ -40,10 +40,16 @@ order: 90
     <h3>Options</h3>
     <ul>
         <li>Campus IT (OIT)</li>
+          <ul>
+            <li>Research Facilitation Service</li>
+          </ul>
         <li>
             Cloud Storage
             <ul>
                 <li>Google Drive</li>
+                <ul>
+                    <li>Use Shared Drives</li>
+                </ul>
                 <li>GitHub</li>
                 <li>Amazon Web Services (S3)</li>
                 <li>Drop Box</li>

@@ -14,7 +14,7 @@ order: 75
             <li>Manager</li>
             <li>Editor</li>
             <li>User</li>
-            <li>...</li>
+            <li>&mldr;</li>
         </ul>
     </div>
     <div class="small three-col middle fragment">
@@ -24,7 +24,7 @@ order: 75
             <li>Delete</li>
             <li>View</li>
             <li>Edit</li>
-            <li>...</li>
+            <li>&mldr;</li>
         </ul>
     </div>
     <div class="small three-col right fragment">
@@ -34,7 +34,7 @@ order: 75
             <li>Daily management</li>
             <li>Validation/Review</li>
             <li>Data collection</li>
-            <li>...</li>
+            <li>&mldr;</li>
         </ul>
     </div>
 </div>

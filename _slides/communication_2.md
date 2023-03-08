@@ -25,7 +25,7 @@ order: 150
     <h3>When Are You Communicating?</h3>
     <ul>
       <li>When Necessary</li>
-      <li>Depends on audieance above</li>
+      <li>Depends on audience above</li>
       <li>Don't forget your future self!</li>
     </ul>
   </div>
