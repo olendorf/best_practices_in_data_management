@@ -11,7 +11,7 @@ order: 0
 
 <ul class="small">
     <li>Robert Olendorf &lt;rkolendo@ncsu.edu&gt; </li>
-    <li>Shelby Hallman &lt;sjhallma@ncsu.edu&gt;</li>
+    <li>Joddy Marchesoni &lt;jimarche@ncsu.edu&gt;</li>
     
     <li>The GitHub repository: https://github.com/olendorf/best_practices_in_data_management</li>
 </ul>
