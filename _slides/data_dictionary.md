@@ -11,7 +11,7 @@ order: 190
       <dt>temperature</dt>
       <dd><strong>description: </strong>The surface temperature on mars</dd>
       <dd><strong>units: </strong>degrees kelvin</dd>
-      <dd><strong>type: </strong>integer</strong></dd>
+      <dd><strong>type: </strong>integer</dd>
       <dd><strong>instrument: </strong>thermomatic 5000</dd>
       <dt>soil_type</dt>
       <dd><strong>description: </strong>The soil classification based on
