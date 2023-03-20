@@ -7,10 +7,15 @@ order: 230
 ## Archiving Your work
 
 <div>
-  <div class="two-col left">
+  <div class="two-col small left">
     <ul>
         <li>Probably required!</li>
+        <ul>
+          <li>All OSTP funded grants (NIH, NSF, DOD, DOE, &mldr;)</li>
+          <li>Many others</li>
+        </ul>
         <li>Look for a domain specific repository</li>
+        <li>Dryad (Our insitutional repository)</li>
         <li>Figshare, Zenodo</li>
         <li>
           GitHub is not considered a repository
