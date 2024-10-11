@@ -19,7 +19,7 @@ order: 95
     <ul>
       <li class="fragment">How big will your files be?</li>
       <li class="fragment">How many files will you generate?</li>
-      <li class="fragment">How fast will your generate data? (burp vs trickle)</li>
+      <li class="fragment">How fast will you generate data? (burp vs trickle)</li>
       <li class="fragment">What is the total volume of data</li>
       <li class="fragment">
         How complex is your data?
