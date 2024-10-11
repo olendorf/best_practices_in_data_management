@@ -18,6 +18,7 @@ order: 105
         <li class="fragment">Not start with numbers (underscore instead: _234)</li>
         <li class="fragment">Not contain special characters, including hyphens</li>
         <li class="fragment">Not have spaces</li>
+        <li class="fragment">Use ISO formatted dates (YYYY-MM-DD)</li>
     </ul>
 </div>
 
