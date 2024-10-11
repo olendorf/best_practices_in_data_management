@@ -19,29 +19,31 @@ order: 100
     <h3> The Directory Structure Should Be&#8230;</h3>
     <ul>
         <li>
-            Expressive.
+            Expressive
             <ul>
-                <li>Requires minimal documentation.</li>
-                <li>Intuitive structure.</li>
+                <li>Requires minimal documentation</li>
+                <li>Intuitive structure</li>
             </ul>
         </li>
         <li>
-            Easy to maintain.
+            Easy to maintain
             <ul>
-                <li>Easy to name files.</li>
-                <li>Easy to move things.</li>
+                <li>Easy to name files</li>
+                <li>Easy to move things</li>
             </ul>
         </li>
         <li>
             Scalable
             <ul>
-                <li>Works for small and large projects.</li>
-                <li>Easy to navigate for any size project.</li>
-                <li>Don't nest too deeply.</li>
-                <li>Don't nest too shallow.</li>
+                <li>Works for small and large projects</li>
+                <li>Easy to navigate for any size project</li>
+                <li>Don't nest too deeply</li>
+                <li>Don't nest too shallow</li>
             </ul>
         </li>
     </ul>
+    <p>Consider using or creating a templated directory structure. A nice example of a standardized project structure
+    for doing data science is available at <a href="https://cookiecutter-data-science.drivendata.org/">Cookiecutter Data Science</a>.</p>
   </div>
 </div>
 
