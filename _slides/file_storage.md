@@ -41,7 +41,7 @@ order: 90
     <ul>
         <li>Campus IT (OIT)</li>
           <ul>
-            <li>Research Facilitation Service</li>
+            <li>OIT's <a href="https://research.oit.ncsu.edu/docs/storage/">Research Storage Service</a></li>
           </ul>
         <li>
             Cloud Storage
