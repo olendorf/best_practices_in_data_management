@@ -8,9 +8,7 @@ order: 210
 
 <div>
   <div class="two-col left small">
-    <ul>
-      <li>The README file for your code should include all the software versions, packages and libraries necessary to run your code</li>
-    </ul>
+    <p>The README file for your code should include all the software versions, packages and libraries necessary to run your code</p>
   </div>
 <div class="two-col right">
     <figure>
@@ -20,9 +18,7 @@ order: 210
   </div>
 <div>
   <div class="two-col left small">
-    <ul>
-      <li>Use comments to document your code and be sure functions and variables have descriptive, human-readable names</li>
-    </ul>
+    <p>Use comments to document your code and be sure functions and variables have descriptive, human-readable names</p>
   </div>
 <div class="two-col right">
     <figure>
