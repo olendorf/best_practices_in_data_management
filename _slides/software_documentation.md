@@ -12,7 +12,7 @@ order: 210
   </div>
 <div class="two-col right">
     <figure>
-      <img src="{{ site.baseurl }}/assets/img/slides/read-me_documentation.jpg" 
+      <img src="{{ site.baseurl }}/assets/img/slides/readme_documentation.png" 
            alt="README file with dependencies" width="400" />
     </figure>
   </div>
