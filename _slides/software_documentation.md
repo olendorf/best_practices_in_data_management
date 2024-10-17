@@ -16,14 +16,3 @@ order: 210
            alt="README file with dependencies" width="400" />
     </figure>
   </div>
-
-<div>
-  <div class="two-col left">
-    <p>Your code should also have intelligible inline comments, and that variables and functions have descriptive, human readable names</p>
-  </div>
-<div class="two-col right">
-    <figure>
-      <img src="{{ site.baseurl }}/assets/img/slides/in-line_comments.jpg" 
-           alt="Example of in-line code documentation" width="400" />
-    </figure>
-  </div>
