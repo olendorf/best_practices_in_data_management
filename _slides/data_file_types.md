@@ -12,8 +12,8 @@ order: 90
       <li class="fragment">Favor Open File Types
          <ul>
            <li>CSV over Excel</li>
-           <li>PNG over JPG</li>
-           <li>Avoid proprietary formats</li>
+           <li>Avoid proprietary formats when possible</li>
+           <li>R or CSV over STATA & SPSS</li>
          </ul>
       </li>
       <li class="fragment">Favor Text Formats
